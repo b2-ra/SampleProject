@@ -10,7 +10,14 @@ HackMDから編集
 
 **個人用から編集**
 
-aaa
+~~aaaa~~
 
----
-## test2
+![](https://i.imgur.com/bc8M88Q.png)
+
+```
+<html>
+    <body>
+        <a>test</a>
+    </body>
+</html>
+```
